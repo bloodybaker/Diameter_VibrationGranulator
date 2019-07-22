@@ -1,0 +1,7 @@
+﻿  MainForm.cpp
+c:\cours\courswork\courswork\mainform.cpp(43): warning C4101: m: неиспользованная локальная переменная
+c:\cours\courswork\courswork\mainform.cpp(43): warning C4101: k: неиспользованная локальная переменная
+c:\cours\courswork\courswork\mainform.cpp(43): warning C4101: Tk: неиспользованная локальная переменная
+c:\cours\courswork\courswork\mainform.cpp(43): warning C4101: temp: неиспользованная локальная переменная
+  MainForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Courswork.vcxproj -> C:\Cours\Courswork\Debug\Courswork.exe
